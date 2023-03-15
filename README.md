@@ -12,5 +12,10 @@ Kenzio Dewapramadhani Ganinda
 2440022025
 
 ## Screenshot
-![alt text](https://github.com/KenzioDG/[reponame]/blob/[branch]/image.jpg?raw=true)(https://github.com/KenzioDG/WebProg-ASG-2/main/profile IVO.jpg)
+![alt-text](https://github.com/KenzioDG/WebProg-ASG-2/main/profile-ivo.png)
+
+![alt-text](https://github.com/KenzioDG/WebProg-ASG-2/main/profile-kenzio.png)
+
+![alt-text](https://github.com/KenzioDG/WebProg-ASG-2/main/profile-grady.png)
+
 
